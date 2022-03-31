@@ -1,2 +1,4 @@
 file 2
 File2 changed
+File2 another line added
+Third line added with amend
